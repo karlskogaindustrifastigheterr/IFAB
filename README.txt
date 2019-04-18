@@ -1,6 +1,6 @@
 
 TITLE: 
-Energy - 100% Fully Responsive Free HTML5 Bootstrap Template
+Karlskoga industrifastighets AB
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
